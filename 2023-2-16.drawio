@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T06:54:03.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.20" etag="A4zXzwypmorw2j9XaaQi" type="github"><diagram name="第 1 页" id="otgg1pMbp3qWrdEctbn4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-16T08:43:44.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Q5g31nBcIrIwkp9jO_Dm" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="otgg1pMbp3qWrdEctbn4">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-3" value="纳溪区" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-5" value="A学校" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-6" value="b学校" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cvOIWNMi7TnVYtYeKEzf-7" target="cvOIWNMi7TnVYtYeKEzf-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-7" value="纳溪区" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="527" y="120" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-8" value="A商户" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="547" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-9" value="B商户" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="657" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="cvOIWNMi7TnVYtYeKEzf-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="150" as="sourcePoint" />
+            <mxPoint x="190" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="cvOIWNMi7TnVYtYeKEzf-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="230" as="sourcePoint" />
+            <mxPoint x="310" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-18" value="平台" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="120" as="sourcePoint" />
+            <mxPoint x="470" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="120" as="sourcePoint" />
+            <mxPoint x="470" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="410" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="270" as="sourcePoint" />
+            <mxPoint x="570" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-25" value="外卖" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="410" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="557" y="240" width="70" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cvOIWNMi7TnVYtYeKEzf-33" value="1. 营业执照&lt;br&gt;2. 许可证&lt;br&gt;3. 资料&lt;br&gt;4.服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
